@@ -2,11 +2,14 @@
 to do to do
 
 ## distributed
-824
+learn 824
 
+write a kv store based on raft
 
 ## database
-cpp
-445
+learn cpp to know the code of database,such as 445 project,leveldb,rocksdb ..
+
+learn 445
+
 
 
