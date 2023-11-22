@@ -9,7 +9,13 @@ write a kv store based on raft
 ## database
 learn cpp to know the code of database,such as 445 project,leveldb,rocksdb ..
 
-learn 445
+learn 445 and 721
+
+## paper
+- spanner
+- lsmtree
+- wisckey
+- ...
 
 
 
