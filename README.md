@@ -11,11 +11,15 @@ learn cpp to know the code of database,such as 445 project,leveldb,rocksdb ..
 
 learn 445 and 721
 
-## machine learning
+## os
+csapp(15-213), cs162
+
+
+## machine learning, parallel, compile？？？
 ### course
-cs188
-## 系统、架构、并行计算？？？
-...
+cs188, 15-418, cs143
+
+
 
 ## paper
 - spanner
